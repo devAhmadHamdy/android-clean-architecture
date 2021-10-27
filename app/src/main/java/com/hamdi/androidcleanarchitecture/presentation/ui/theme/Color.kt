@@ -1,4 +1,4 @@
-package com.hamdi.androidcleanarchitecture.ui.theme
+package com.hamdi.androidcleanarchitecture.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
